@@ -1,0 +1,4 @@
+docker build -t mypythonapp .
+
+docker run mypythonapp
+
